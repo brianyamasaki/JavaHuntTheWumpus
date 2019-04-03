@@ -4,5 +4,7 @@
  * (This could be done by the same person doing the GameLocations object).
  */
 public class Player {
-
+	public Player () {
+		
+	}
 }

@@ -4,5 +4,7 @@
  * Also handles Wumpus movements unless there’s a separate Wumpus object.
  */
 public class GameLocations {
-
+	public GameLocations() {
+		
+	}
 }

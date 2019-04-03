@@ -4,5 +4,7 @@
  * from a file).
  */
 public class Trivia {
-
+	public Trivia () {
+		
+	}
 }
