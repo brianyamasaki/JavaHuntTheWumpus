@@ -14,15 +14,15 @@ Breaking this down:
 
 ### What are User Events?
 
+The Graphical UI will convert mouse clicks, button presses, keyboard presses and other basic events into User Events that the Game Logic needs to play the game.
+
 In Hunt the Wumpus, User Events include things like:
 
 * Moving to a new room
-* Shooting and arrow
+* Shooting an arrow
 * Choosing a Map
 * Answering a Trivia question
 * and much, much more.
-
-The Graphical UI will convert mouse clicks, button presses, keyboard presses and other basic events into User Events that the Game Logic needs to play the game.
 
 ### So what is Game Logic?
 
@@ -51,15 +51,15 @@ Graphical UI get to choose HOW to display everything and how the user interacts 
 * All Graphics, mouse click handling, and visual ideas are chosen by Graphical UI
 * How to display Trivia questions, current scores, messages are all decided by Graphical UI
 
-## Versions
-
-So far, this is only tested on Eclipse 2018/12 and Java SDK 11.0.2
-
 ## Testing using JUnit
 
 This is setup to run JUnit version 5 or JUnit Jupiter. [Click here to see documentation for JUnit Jupiter](https://junit.org/junit5/docs/current/user-guide/).
 
-### To modify this file in Eclipse
+## Versions
+
+So far, this is only tested on Eclipse 2018/12 and Java SDK 11.0.2
+
+## To modify this file in Eclipse
 
 * Clicking on the tab connected to this pane labeled Markdown Source lets you edit this document
 * Clicking on the tab labeled Preview lets you see whether you've changed it correctly
