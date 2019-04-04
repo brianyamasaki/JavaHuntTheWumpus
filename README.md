@@ -50,6 +50,7 @@ Graphical UI get to choose HOW to display everything and how the user interacts 
 
 * All Graphics, mouse click handling, and visual ideas are chosen by Graphical UI
 * How to display Trivia questions, current scores, messages are all decided by Graphical UI
+* Must redraw the screen after every User Event gets handled by Game Logic
 
 ## Testing using JUnit
 
